@@ -175,7 +175,7 @@ model-viewer::part(default-ar-button) {
 #about-content h2,
 #about-content h3 {
   margin: 0 0 14px;
-  font-family: "Ruritania-Outline";
+  font-family: "Helvetica Neue", Arial, sans-serif;
   font-size: 30px;
   letter-spacing: 0.01em;
   color: #000;
