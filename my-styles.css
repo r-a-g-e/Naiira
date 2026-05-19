@@ -1,3 +1,8 @@
+@font-face {
+    font-family: 'Ruritania-Outline' ;
+  src: url('./assets/Ruritania-Outline.tff');
+}
+
 body {
   margin: 0;
   height: 100vh;
@@ -170,7 +175,7 @@ model-viewer::part(default-ar-button) {
 #about-content h2,
 #about-content h3 {
   margin: 0 0 14px;
-  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-family: "Ruritania-Outline";
   font-size: 30px;
   letter-spacing: 0.01em;
   color: #000;
